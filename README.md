@@ -1,2 +1,2 @@
 # bwa
-Docker environment for bwa
+Docker environment for BWA
