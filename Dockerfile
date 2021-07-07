@@ -1,5 +1,5 @@
 # Minimal Docker image for BWA v0.7.17 using Alpine base
-FROM alpine:latest
+FROM alpine:3.13.5
 MAINTAINER Niema Moshiri <niemamoshiri@gmail.com>
 
 # install BWA
